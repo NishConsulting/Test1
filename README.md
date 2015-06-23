@@ -3,9 +3,10 @@ NISH Consulting Inc Response to RFQ 4QTFHS150004 for Agile Delivery Services (AD
 Pool 1: Design
 # Prototype URL (Design Pool)
 Insert url here
-# Description
+# Description of Our Approach
 750 words or less
-# Design Criteria
+
+# Design Criteria (ATTACHMENT E)
 
 CRITERIA 1: Assigned one leader, gave that person authority and responsibility, and held that person accountable for the quality of the prototype submitted
 
@@ -42,4 +43,10 @@ EVIDENCE:TBD
 CRITERIA 9:Created a prototype that works on multiple devices, and presents a responsive design
 
 EVIDENCE:TBD
+
+# ADDITIONAL DOCUMENTS SUBMITTED ON eBuy
+
+Attachment B: Labor category mapping and discount
+
+Attachment C: Price
 
