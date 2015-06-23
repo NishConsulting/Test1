@@ -8,7 +8,9 @@ Insert url here
 # Design Criteria
 
 CRITERIA 1: Assigned one leader, gave that person authority and responsibility, and held that person accountable for the quality of the prototype submitted
+
 EVIDENCE: TBD
+
 CRITERIA 2:Assembled a multidisciplinary and collaborative team that includes at a minimum of three of the labor categories  limited to the Design Pool Labor categories to design the prototype as quoted in Attachment C.
 EVIDENCE:TBD
 CRITERIA 3:Understand what people need, by including people in the prototype design process
